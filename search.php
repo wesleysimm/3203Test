@@ -10,6 +10,7 @@
    </head>
    <body>
       <form method="post" id="frm" name="frm" action="search.php">
+         <th></th>
          <table width="500" border="0">
             <tr>
                <td>Search page in php</td>
